@@ -71,7 +71,7 @@ html, body {
 }
 
 .bar-item .text {
-    font-size: 26px;
+    font-size: 15px;
     white-space: nowrap;
     overflow: hidden;
     display: inline-block; /* Keep the text inline */
