@@ -8,18 +8,22 @@ main {
     border-top: 2px solid #EE4B2B; 
     margin: 12px 0;  
     width: 50%; 
-    margin-right: auto; 
+    
 }
 h1{
     text-align: center;
+    color: #e60012;
+    text-shadow: 2px 2px 2px black;
+    font-family: 'mario_pixel',Arial, sans-serif;
 }
+
 p {
     text-align: center;
     font-family: Arial, sans-serif;
-    font-size: 16px;
 }
 
 li {
     text-align: center;
     font-family: Arial, sans-serif;
+    list-style-type: none;
 }
