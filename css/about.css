@@ -3,10 +3,11 @@ main {
     text-align: center;
 }
 .divider {
+    align-self: center;
     border:none;
     border-top: 2px solid #EE4B2B; 
     margin: 12px 0;  
-    width: 75%; 
+    width: 50%; 
     margin-right: auto; 
 }
 
