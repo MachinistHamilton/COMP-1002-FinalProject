@@ -12,11 +12,13 @@ html, body {
 
 
 .home-title{
+    font-family: 'mario_pixel',Arial, sans-serif;
     align-self: center;
     color: #e60012;
     text-shadow: 2px 2px 2px white;
 }
 .vb-info{
+    font-family: 'mario_pixel',Arial, sans-serif;
     color: #e60012;
     text-shadow: 2px 2px 2px white;
     text-align: center;
@@ -117,6 +119,7 @@ html, body {
     to{opacity: .1}
 }
 .contact{
+    font-family: 'mario_pixel',Arial, sans-serif;
     display: flex;
     align-self: center;
     max-width: 75vw;
