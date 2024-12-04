@@ -148,6 +148,7 @@ footer ul {
 }
 /* Footer Navigation Items */
 footer ul li {
+    font-family: 'mario_pixel',Arial, sans-serif;
     margin: 1rem;
 }
 /* Footer Navigation Links */
