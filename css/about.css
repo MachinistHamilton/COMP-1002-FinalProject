@@ -2,7 +2,7 @@ main {
     display: flex;
     text-align: center;
 }
-.divider{
+.divider {
     border:none;
     border-top: 2px solid #EE4B2B; 
     margin: 12px 0;  
@@ -10,6 +10,7 @@ main {
     margin-right: auto; 
 }
 
-p{
+p {
+    text-align: center;
     font-family: Arial, sans-serif;
 }
