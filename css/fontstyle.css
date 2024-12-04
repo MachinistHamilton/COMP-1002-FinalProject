@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'mario_pixel';
-    src: url('../COMP-1002-Final-Project/css/typefacemarioworldpixelfilledregular-rgvmx.woff2') format('woff2'),
-         url('../COMP-1002-Final-Project/css/typefacemarioworldpixelfilledregular-rgvmx.woff') format('woff');
+    src: url('../css/typefacemarioworldpixelfilledregular-rgvmx.woff2') format('woff2'),
+         url('../css/typefacemarioworldpixelfilledregular-rgvmx.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
