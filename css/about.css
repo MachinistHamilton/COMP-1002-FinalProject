@@ -2,6 +2,7 @@ main {
     display: flex;
     text-align: center;
 }
+
 .divider {
     align-self: center;
     border:none;
