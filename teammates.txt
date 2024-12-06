@@ -1,4 +1,4 @@
 Teammates:
-Mark Hamilton
-Nick Van Delft
-Bruno Oliveara
+Mark Hamilton - Global header and Footer, Products page.
+Nick Van Delft - Home page and Contacts page
+Bruno Oliveara - About page
